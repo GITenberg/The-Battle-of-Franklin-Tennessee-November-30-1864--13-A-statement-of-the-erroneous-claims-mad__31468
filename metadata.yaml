@@ -1,0 +1,28 @@
+_repo: The-Battle-of-Franklin-Tennessee-November-30-1864--13-A-statement-of-the-erroneous-claims-mad__31468
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shellenberger, John K.
+    gutenberg_agent_id: '26709'
+    url: http://www.gutenberg.org/2009/agents/26709
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31468'
+  lccn: '17024185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Franklin, Battle of, Franklin, Tenn., 1864'
+title: "The Battle of Franklin, Tennessee, November 30, 1864\r\nA statement of the\
+  \ erroneous claims made by General Schofield, and an exposition of the blunder which\
+  \ opened the battle"
+url: http://www.gutenberg.org/ebooks/31468
